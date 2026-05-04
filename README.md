@@ -29,6 +29,13 @@ Passionate about delivering efficient, maintainable, and user-focused solutions.
 <li><strong>Concepts:</strong> MVC, Clean Architecture, OOP</li>
 </ul>
 
+
+<h2>🛠️ Tech Stack</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,ts,html,css,bootstrap,sqlserver,git,github,vscode" />
+</p>
+
 ---
 
 <h2>🚀 Featured Projects</h2>
