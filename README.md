@@ -45,10 +45,16 @@ A full-stack e-commerce platform that includes product listing, shopping cart, a
 </p>
 
 <ul>
-<li>Built using modern full-stack technologies</li>
-<li>Implements structured backend and dynamic frontend</li>
-<li>Focus on user experience and performance</li>
+<li>Structured backend with scalable architecture</li>
+<li>Dynamic and responsive frontend</li>
+<li>Focus on performance and usability</li>
 </ul>
+
+<p><strong>🛠️ Technologies Used:</strong></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,sqlserver" />
+</p>
 
 ---
 
@@ -68,8 +74,14 @@ A complete pharmacy management system designed to handle daily pharmacy operatio
 <li>Invoice creation system</li>
 <li>Medicine stock management</li>
 <li>Customer and sales tracking</li>
-<li>Built with ASP.NET Core MVC & EF Core</li>
+<li>Clean MVC architecture</li>
 </ul>
+
+<p><strong>🛠️ Technologies Used:</strong></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,bootstrap,sqlserver" />
+</p>
 
 ---
 
