@@ -1,133 +1,53 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=230&section=header&text=Naglaa%20Fathy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
-<h1 align="center">Hi 👋, I'm Naglaa Fathy</h1>
-<h3 align="center">🚀 Full Stack .NET Developer | Angular Specialist</h3>
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=naglaafathy11&label=Profile%20Views&color=2563eb&style=flat" />
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="30" style="display:inline-block;" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" style="display:inline-block;" />
+  </a>
 </p>
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ---
 
-<h2>💼 Professional Summary</h2>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-<p>
-Full Stack .NET Developer with hands-on experience building scalable and real-world web applications using <strong>ASP.NET Core</strong> and <strong>Angular</strong>.  
-Strong understanding of software architecture, clean code principles, and database design.  
-Passionate about delivering efficient, maintainable, and user-focused solutions.
-</p>
-
----
-
-<h2>🛠️ Technical Skills</h2>
-
-<ul>
-<li><strong>Backend:</strong> ASP.NET Core, Entity Framework Core, REST APIs</li>
-<li><strong>Frontend:</strong> Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap</li>
-<li><strong>Database:</strong> SQL Server</li>
-<li><strong>Tools:</strong> Git, GitHub, Visual Studio</li>
-<li><strong>Concepts:</strong> MVC, Clean Architecture, OOP</li>
-</ul>
-
-
-<h2>🛠️ Tech Stack</h2>
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,ts,html,css,bootstrap,sqlserver,git,github,vscode" />
-</p>
+- 💼 I'm a **Full Stack Developer (.NET & Angular)**
+- 🏥 Currently working on **Pharmacy Management System (Cure & Care)**
+- 💻 I use daily: **C#**, **ASP.NET MVC**, **Entity Framework Core**, **SQL Server**, **Angular**, **TypeScript**
+- 📚 Currently learning **Advanced .NET & API Integration**
+- 🧠 Interested in **Clean Architecture & Design Patterns**
+- 👯 Open to collaborate on **.NET Projects**
+- ⚡ Fun fact: I enjoy turning ideas into real-world systems 🚀
 
 ---
 
-<h2>🚀 Featured Projects</h2>
-
-<h3>🛒 E-Commerce System</h3>
-<p>
-A full-stack e-commerce platform that includes product listing, shopping cart, and user interaction.
-</p>
-
-<p>
-<a href="https://github.com/naglaafathy11/E-Commerce-ITI-main">
-<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-<ul>
-<li>Structured backend with scalable architecture</li>
-<li>Dynamic and responsive frontend</li>
-<li>Focus on performance and usability</li>
-</ul>
-
-<p><strong>🛠️ Technologies Used:</strong></p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,sqlserver" />
-</p>
-
----
-
-<h3>💊 CureAndCare - Pharmacy Management System</h3>
-
-<p>
-A complete pharmacy management system designed to handle daily pharmacy operations efficiently.
-</p>
-
-<p>
-<a href="https://github.com/naglaafathy11/CureAndCare">
-<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-<ul>
-<li>Invoice creation system</li>
-<li>Medicine stock management</li>
-<li>Customer and sales tracking</li>
-<li>Clean MVC architecture</li>
-</ul>
-
-<p><strong>🛠️ Technologies Used:</strong></p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,bootstrap,sqlserver" />
-</p>
-
----
-
-<h2>📊 GitHub Analytics</h2>
+### 🧑‍💻 Tech I work on :
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=naglaafathy11&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naglaafathy11&theme=tokyonight" />
-</p>
-
----
-
-<h2>🌐 Contact & Links</h2>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/naglaa-fathy-45613a265/">
-<img src="https://img.shields.io/badge/LinkedIn-Naglaa%20Fathy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/naglaafathy11">
-<img src="https://img.shields.io/badge/GitHub-naglaafathy11-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:naglaafathy1244@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,git,github,sqlserver" />
+  </a>
 </p>
 
 ---
 
-<h2>🎯 Career Objective</h2>
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> My Github Stats:
 
-<p>
-Seeking an opportunity as a Software Engineer where I can apply my technical skills, contribute to impactful projects, and continue growing in a professional environment.
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&show_icons=true)
 
 ---
 
-<h3 align="center">✨ "Building real solutions, not just writing code."</h3>
+📅 **I'm Most Productive When Building Real Projects** 💻🔥
+
+```text
+💊 Pharmacy System Development   █████████████████░░░░░░░░   70%
+📊 Reports & Dashboards          ███████████░░░░░░░░░░░░░   50%
+🎨 UI/UX Design                 █████████░░░░░░░░░░░░░░░   40%
+⚙️ Backend Logic                ███████████████░░░░░░░░░   65%
